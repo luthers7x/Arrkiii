@@ -2,16 +2,16 @@
 
 module.exports = {
   token:
-    "MTM5OTE4Njk2Nzk2NjUxOTMyNg.GLDefb.-o",
-  clientId: "1399186967966519326",
+    "MTUwNDU5OTYwMjcyMzAzMzI2OQ.Gtz3FX.vHrH6Qh_4RF3aspVmM53BK0g7D5Wsz4Z1jx7Ak",
+  clientId: "1504599602723033269",
   prefix: ">",
-  ownerID: "870179991462236170",
+  ownerID: "1261796038734250037",
   SpotifyID: "85aab1d51a174aad9eed6d7989f530e6",
   SpotifySecret: "b2ad05aa725e434c88776a1be8eab6c2",
   mongourl:
     "mongodb+srv://codex-in2:codex-in2@codex-in2.gjv2c.mongodb.net/?retryWrites=true&w=majority",
   embedColor: "#2f3136",
-  logs: "https://discord.com/api/webhooks/1399187361694482462/--yD8NpadUuQJ2_XG8tfWRraU1MnDyRhtnpqr825pDo",
+  logs: "https://discord.com/api/webhooks/1504550472088813698/HeS9ZXRpgDH_pd9z4mMFuhctwBl1F_tMgHaZKR55bTDSXVZdXVJ1FKzdvlwMt4_ZGU3X",
   node_source: "ytsearch",
   topgg:
     "here",
@@ -28,16 +28,16 @@ module.exports = {
     topgg: "https://top.gg/bot/1033496708992204840/vote",
   },
   Webhooks: {
-      black: "https://discord.com/api/webhooks/1399187361694482462/MtGa--yD8NpadUuQJ2_XG8tfWRraU1MnDyRhtnpqr825pDo",
+      black: "https://discord.com/api/webhooks/1504550472088813698/HeS9ZXRpgDH_pd9z4mMFuhctwBl1F_tMgHaZKR55bTDSXVZdXVJ1FKzdvlwMt4_ZGU3X",
     player_create:
-      "https://discord.com/api/webhooks/1399187361694482462/MtGa--yD8NpadUuQJ2_XG8tfWRraU1MnDyRhtnpqr825pDo",
+      "https://discord.com/api/webhooks/1504550472088813698/HeS9ZXRpgDH_pd9z4mMFuhctwBl1F_tMgHaZKR55bTDSXVZdXVJ1FKzdvlwMt4_ZGU3X",
     player_delete:
-      "https://discord.com/api/webhooks/1399187361694482462/MtGa--yD8NpadUuQJ2_XG8tfWRraU1MnDyRhtnpqr825pDo",
+      "https://discord.com/api/webhooks/1504550472088813698/HeS9ZXRpgDH_pd9z4mMFuhctwBl1F_tMgHaZKR55bTDSXVZdXVJ1FKzdvlwMt4_ZGU3X",
     guild_join:
-      "https://discord.com/api/webhooks/1399187361694482462/MtGa--yD8NpadUuQJ2_XG8tfWRraU1MnDyRhtnpqr825pDo",
-      guild_leave: "https://discord.com/api/webhooks//MtGa--yD8NpadUuQJ2_XG8tfWRraU1MnDyRhtnpqr825pDo",
+      "https://discord.com/api/webhooks/1504550472088813698/HeS9ZXRpgDH_pd9z4mMFuhctwBl1F_tMgHaZKR55bTDSXVZdXVJ1FKzdvlwMt4_ZGU3X",
+      guild_leave: "https://discord.com/api/webhooks/1504550472088813698/HeS9ZXRpgDH_pd9z4mMFuhctwBl1F_tMgHaZKR55bTDSXVZdXVJ1FKzdvlwMt4_ZGU3X",
     cmdrun:
- "https://discord.com/api/webhooks/1399187361694482462/MtGa--yD8NpadUuQJ2_XG8tfWRraU1MnDyRhtnpqr825pDo",
+ "https://discord.com/api/webhooks/1504550472088813698/HeS9ZXRpgDH_pd9z4mMFuhctwBl1F_tMgHaZKR55bTDSXVZdXVJ1FKzdvlwMt4_ZGU3X",
   },
 
   nodes: [
